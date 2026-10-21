@@ -2,7 +2,7 @@
 
 React + Vite + JavaScript + CSS3 site for ScanDriver, a driver aggregation service in Delhi NCR (it does not own vehicles). Created from scratch because no repository was available; the live site (scandriver.in) is built with Next.js, this project is a separate Vite implementation.
 
-#Live Demo: https://scandriver.vercel.app/
+# Live Demo: https://scandriver.vercel.app/
 
 ## Run
 `npm install` · `npm run dev` · `npm run build` · `npm run preview`
